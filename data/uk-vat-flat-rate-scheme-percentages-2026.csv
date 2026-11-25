@@ -1,0 +1,65 @@
+business_type,flat_rate_percent,first_year_percent,effective_percent_of_net_sales,period,current
+Accountancy or book-keeping,14.5,13.5,17.4,current,true
+Advertising,11,10,13.2,current,true
+Agricultural services,11,10,13.2,current,true
+Any other activity not listed elsewhere,12,11,14.4,current,true
+"Architect, civil and structural engineer or surveyor",14.5,13.5,17.4,current,true
+Boarding or care of animals,12,11,14.4,current,true
+Business services not listed elsewhere,12,11,14.4,current,true
+Catering services including restaurants and takeaways,12.5,11.5,15.0,before 15 July 2020,false
+Catering services including restaurants and takeaways,4.5,3.5,5.4,from 15 July 2020 to 30 September 2021,false
+Catering services including restaurants and takeaways,8.5,7.5,10.2,from 1 October 2021 to 31 March 2022,false
+Catering services including restaurants and takeaways,12.5,11.5,15.0,from 1 April 2022,true
+Computer and IT consultancy or data processing,14.5,13.5,17.4,current,true
+Computer repair services,10.5,9.5,12.6,current,true
+Entertainment or journalism,12.5,11.5,15.0,current,true
+Estate agency or property management services,12,11,14.4,current,true
+Farming or agriculture not listed elsewhere,6.5,5.5,7.8,current,true
+"Film, radio, television or video production",13,12,15.6,current,true
+Financial services,13.5,12.5,16.2,current,true
+Forestry or fishing,10.5,9.5,12.6,current,true
+General building or construction services,9.5,8.5,11.4,current,true
+Hairdressing or other beauty treatment services,13,12,15.6,current,true
+Hiring or renting goods,9.5,8.5,11.4,current,true
+Hotel or accommodation,10.5,9.5,12.6,before 15 July 2020,false
+Hotel or accommodation,0,0,0.0,from 15 July 2020 to 30 September 2021,false
+Hotel or accommodation,5.5,4.5,6.6,from 1 October 2021 to 31 March 2022,false
+Hotel or accommodation,10.5,9.5,12.6,from 1 April 2022,true
+Investigation or security,12,11,14.4,current,true
+Labour-only building or construction services,14.5,13.5,17.4,current,true
+Laundry or dry-cleaning services,12,11,14.4,current,true
+Lawyer or legal services,14.5,13.5,17.4,current,true
+"Library, archive, museum or other cultural activity",9.5,8.5,11.4,current,true
+Management consultancy,14,13,16.8,current,true
+Manufacturing fabricated metal products,10.5,9.5,12.6,current,true
+Manufacturing food,9,8,10.8,current,true
+Manufacturing not listed elsewhere,9.5,8.5,11.4,current,true
+"Manufacturing yarn, textiles or clothing",9,8,10.8,current,true
+Membership organisation,8,7,9.6,current,true
+Mining or quarrying,10,9,12.0,current,true
+Packaging,9,8,10.8,current,true
+Photography,11,10,13.2,current,true
+Post offices,5,4,6.0,current,true
+Printing,8.5,7.5,10.2,current,true
+Publishing,11,10,13.2,current,true
+Pubs,6.5,5.5,7.8,before 15 July 2020,false
+Pubs,1,0,1.2,from 15 July 2020 to 30 September 2021,false
+Pubs,4,3,4.8,from 1 October 2021 to 31 March 2022,false
+Pubs,6.5,5.5,7.8,from 1 April 2022,true
+Real estate activity not listed elsewhere,14,13,16.8,current,true
+Repairing personal or household goods,10,9,12.0,current,true
+Repairing vehicles,8.5,7.5,10.2,current,true
+"Retailing food, confectionery, tobacco, newspapers or children’s clothing",4,3,4.8,current,true
+"Retailing pharmaceuticals, medical goods, cosmetics or toiletries",8,7,9.6,current,true
+Retailing not listed elsewhere,7.5,6.5,9.0,current,true
+Retailing vehicles or fuel,6.5,5.5,7.8,current,true
+Secretarial services,13,12,15.6,current,true
+Social work,11,10,13.2,current,true
+Sport or recreation,8.5,7.5,10.2,current,true
+"Transport or storage, including couriers, freight, removals and taxis",10,9,12.0,current,true
+Travel agency,10.5,9.5,12.6,current,true
+Veterinary medicine,11,10,13.2,current,true
+Wholesaling agricultural products,8,7,9.6,current,true
+Wholesaling food,7.5,6.5,9.0,current,true
+Wholesaling not listed elsewhere,8.5,7.5,10.2,current,true
+Limited cost business (overrides sector rate),16.5,15.5,19.8,from 1 April 2017,true
