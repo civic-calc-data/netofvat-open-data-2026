@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use these datasets in an article, report, or analysis, please cite Net of VAT as below."
-title: "Net of VAT Open Data 2026: UK VAT Flat Rate Scheme Percentages and 146 HMRC VAT Rate Categories"
+title: "Net of VAT Open Data 2026: UK VAT Flat Rate Scheme Percentages and 147 HMRC VAT Rate Categories"
 type: dataset
-version: "2026.11.1"
+version: "2026.11.2"
 date-released: "2026-11-27"
 license: CC-BY-4.0
 url: "https://netofvat.co.uk/reports/"
