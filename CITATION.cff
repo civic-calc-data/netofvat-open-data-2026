@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use these datasets in an article, report, or analysis, please cite Net of VAT as below."
 title: "Net of VAT Open Data 2026: UK VAT Flat Rate Scheme Percentages and 146 HMRC VAT Rate Categories"
 type: dataset
-version: "2026.11"
-date-released: "2026-11-25"
+version: "2026.11.1"
+date-released: "2026-11-27"
 license: CC-BY-4.0
 url: "https://netofvat.co.uk/reports/"
 authors:
@@ -19,4 +19,4 @@ keywords:
   - cis
   - uk-tax
   - open-data
-abstract: "Two open CSV datasets indexing HMRC UK VAT rules in 2026: all 54 VAT Flat Rate Scheme sector rates plus the 16.5% limited cost business rate and historical 2020-2022 cuts (64 rows), and 146 HMRC VAT rate categories across 20%, 5%, 0%, exempt and outside-scope supplies."
+abstract: "Two open CSV datasets indexing HMRC UK VAT rules in 2026: all 54 VAT Flat Rate Scheme sector rates plus the 16.5% limited cost business rate and historical 2020-2022 cuts (64 rows), and 147 HMRC VAT rate categories across 20%, 5%, 0%, exempt and outside-scope supplies."
